@@ -51,7 +51,7 @@ header nav ul li a {
 }
 /* Header Style Stop */
 
-
+/*Opening Picture for Website Start */
 .opening-pic {
     height: 800px;
     width: 100%;
@@ -61,6 +61,8 @@ header nav ul li a {
     background-position: center;
     position: relative;
 }
+/*Opening Picture for Website End */
+
 /* Content Styling Start */
 .content-styles {
     margin-bottom: 20px;
@@ -76,7 +78,6 @@ header nav ul li a {
     display: inline-block;
     margin-left: 20px;
 }
-
 
 .float-left {
     float: left;

@@ -6,12 +6,12 @@ Deployed Application Repository Website Link > https://woodwindcdt.github.io/Hor
 
 
 What I found & fixed:
-Incorrect syntax Overall
-Syntax in HTML needed to be consolidated
-Syntax in CSS needed to be consolidated
-Had to adjust class/id names in html to correspond with new CSS code
-Added Detailing Comments
-Corrected ID/Class Issues with header functionality
+- Incorrect syntax Overall
+- Syntax in HTML needed to be consolidated
+- Syntax in CSS needed to be consolidated
+- Had to adjust class/id names in html to correspond with new CSS code
+- Added Detailing Comments
+- Corrected ID/Class Issues with header functionality
 
 
 A ScreenShot of my finished work 

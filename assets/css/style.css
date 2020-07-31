@@ -5,8 +5,8 @@
 }
 
 /* Body Style */
-.body {
-    background-color: #d9dcd6;
+body {
+    background-color: rgb(209, 209, 209);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 

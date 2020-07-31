@@ -12,6 +12,7 @@ What I found & fixed:
 - Had to adjust class/id names in html to correspond with new CSS code
 - Added Detailing Comments
 - Corrected ID/Class Issues with header functionality
+- Adjusted Background Color & Main image size
 
 
 A ScreenShot of my finished work 
